@@ -1,0 +1,14 @@
+Notes
+
+Notes pour l'UE "Méthodes avancées de modélisation" ; les valeurs indiquent dans l'ordre :
+- la note individuelle / le barème (note maximale possible)
+- la moyenne, les notes minimale et maximale pour l'ensemble des étudiants.
+
+Ces notes par devoir sont données à titre indicatif et ne permettent pas de calculer directement la note de l'UE qui prendra en compte différents coefficients.
+
+
+Devoir 1 - loi binomiale
+1 / 4 ; 3.7 [1, 4]
+
+Devoir 2 - tidyverse
+0 / 10 ; 7.6 [0, 10]
